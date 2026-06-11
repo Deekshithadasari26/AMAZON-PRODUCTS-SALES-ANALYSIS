@@ -1,5 +1,6 @@
 # 📊 Amazon Sales Performance Analytics Dashboard (Power BI)
 
+<img width="1360" height="724" alt="image" src="https://github.com/user-attachments/assets/bcb1ab52-b2a7-41bc-8b63-c8545f47f4f6" />
 ##  Summary
 This project presents an end-to-end **Amazon Sales Performance Analytics Dashboard** developed using **Microsoft Power BI**.  
 The dashboard is designed for the enabling stakeholders to monitor revenue, product performance, customer engagement, and time-based sales trends through interactive visual analytics.
